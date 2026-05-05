@@ -31,7 +31,7 @@ struct ResultView: View {
                 }
             VStack{
                 HStack{
-                    Button("閉じる"){
+                    Button("閉じる!"){
                         dismiss()
                     }
                     .padding(40)
